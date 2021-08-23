@@ -1,3 +1,6 @@
-﻿Sound,Type,RPM,Fault
-sound122.wav,Mercedes diesel,min,0
-sound123.wav,Mercedes diesel,high,0
+﻿Sound,Type,Model,RPM,Fault
+sound122.wav,Mercedes,240D,min,0
+sound123.wav,Mercedes,240D,high,0
+sound223.wav,Mercedes,300TD,high,1
+sound224.wav,Mercedes,300TD,min,1
+sound225.wav,Mercedes,300TD,high,1
